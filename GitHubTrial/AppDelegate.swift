@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubTrial
-//
-//  Created by PANKAJ on 5/25/18.
-//  Copyright © 2018 PANKAJ. All rights reserved.
-//
 
 import UIKit
 
